@@ -1,8 +1,8 @@
 export const categoryImg = [
     {
-        title: "Pierced Owl Rose",
-        name: "jewelery",
-        imgLink: "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg"
+        title: "Electronics",
+        name: "Drive",
+        imgLink: "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_.jpg"
     },
     {
         title: "Womens T Shirt Casual Cotton",
@@ -10,9 +10,9 @@ export const categoryImg = [
         imgLink: "https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_.jpg"
     },
     {
-        title: "Samsung 49-Inch",
+        title: "Acer",
         name: "electronics",
-        imgLink: "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_.jpg"
+        imgLink: "https://fakestoreapi.com/img/81QpkIctqPL._AC_SX679_.jpg"
     },
     {
         title: "Mens Cotton Jacket",
